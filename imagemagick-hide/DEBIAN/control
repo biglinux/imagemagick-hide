@@ -1,0 +1,11 @@
+Package: imagemagick-hide
+Version: 1.0.0-1big1
+Depends: imagemagick
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:28
+Description: Hide imagemagick in menu
+
+
